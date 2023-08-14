@@ -19,6 +19,7 @@ const config: PlaywrightTestConfig = {
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
     testIdAttribute: 'data-test-id',
+    permissions: ['clipboard-read', 'clipboard-write'],
   },
 
   projects: [
