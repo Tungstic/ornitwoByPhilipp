@@ -1,4 +1,4 @@
-![Ornitwo Logo](https://github.com/lovephimu/ornitwo/blob/next-update/public/images/title_pic.png)
+**This is a fork of [Philipp's](https://github.com/lovephimu) repo. My goal is to practise writing unit and E2E tests for other people's code.**
 
 # Birdwatching Web App
 
